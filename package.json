@@ -1,0 +1,24 @@
+{
+  "name": "bookrecordmanagement",
+  "version": "1.0.0",
+  "description": "Book Record Management",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naveedgce/BookRecordManagement.git"
+  },
+  "author": "Naveed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naveedgce/BookRecordManagement/issues"
+  },
+  "homepage": "https://github.com/naveedgce/BookRecordManagement#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
