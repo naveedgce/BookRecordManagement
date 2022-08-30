@@ -138,7 +138,7 @@ router.put("/:id", (req, res) => {
     return each;
   });
 
-  return res.status(200).json({
+  return res.status(200).json({  
     success: true,
     data: updateData,
   });
